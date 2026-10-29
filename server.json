@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/hibp",
   "title": "Hibp",
   "description": "Have I Been Pwned MCP",
-  "version": "0.1.3",
+  "version": "0.2.0",
   "websiteUrl": "https://pipeworx.io/packs/hibp",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-hibp",
