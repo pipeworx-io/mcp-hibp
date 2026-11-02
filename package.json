@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-hibp",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Have I Been Pwned MCP",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "hibp",
     "gatewaySlug": "hibp",
-    "sourceHash": "v1-ca41ec5bbdce686ce7aa94007f3214e5a57f329094773659408294d457147384",
-    "sourceCommit": "4844029e402d6bd2fe735add8abf6d46735f8ed5"
+    "sourceHash": "v1-ebd4c5bd18bb5de5c844139668685b19618cf3d24ef856ad587f061aa62b6749",
+    "sourceCommit": "0ca9712c0ac03bb0121cc7e81b202d0c45ac02ca"
   }
 }
